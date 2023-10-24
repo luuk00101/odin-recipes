@@ -15,3 +15,10 @@ Once completed I'll demonstrate the following skills:
 - lists
 - links
 - images
+
+## CSS
+
+- font-family
+- width
+- height
+- border-radius

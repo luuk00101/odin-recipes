@@ -1,0 +1,14 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.landing.list {
+  list-style: none;
+  color: black;
+}
+
+.recipe.image {
+  width: 500px;
+  height: auto;
+  border-radius: 8px;
+}
