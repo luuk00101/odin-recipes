@@ -2,7 +2,18 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
-.landing.list {
+.content {
+  width: 500px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+li {
+  margin: 8px;
+}
+
+.pretty-list {
+  padding: 0px;
   list-style: none;
   color: black;
 }
